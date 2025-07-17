@@ -1,0 +1,640 @@
+[
+  {
+    "Código": "EC0065",
+    "Nivel": 2,
+    "Título": "Instalación del sistema de calentamiento solar de agua",
+    "Comité": "de la Asociación Mexicana de Empresas del Ramo de Instalaciones para la Construcción, A.C.",
+    "Sector Productivo": "CONSTRUCCIÓN",
+    "solarpunk-rank": "High",
+    "solarpunk-alignment": "Direct application of renewable energy technology for sustainable living, promoting energy independence and practical green skills.",
+    "solarpunk-tags": [
+      "renewable-energy",
+      "sustainability",
+      "diy",
+      "appropriate-tech",
+      "energy-independence"
+    ]
+  },
+  {
+    "Código": "EC0325",
+    "Nivel": 2,
+    "Título": "Instalación de sistema de calentamiento solar de agua termosifónico en vivienda sustentable",
+    "Comité": "del Instituto del Fondo Nacional de la Vivienda para los Trabajadores/de Energía Renovable y Eficiencia Energética",
+    "Sector Productivo": "CONSTRUCCIÓN",
+    "solarpunk-rank": "High",
+    "solarpunk-alignment": "Explicitly combines renewable energy with sustainable housing, a core solarpunk concept for building self-sufficient communities.",
+    "solarpunk-tags": [
+      "renewable-energy",
+      "sustainability",
+      "diy",
+      "appropriate-tech",
+      "sustainable-housing"
+    ]
+  },
+  {
+    "Código": "EC0586.01",
+    "Nivel": 1,
+    "Título": "Instalación de sistemas fotovoltaicos en residencia, comercio e industria",
+    "Comité": "de Comercio, Industria y Servicios de Baja California / de Energía Renovable y Eficiencia Energética / del Instituto del Fondo Nacional de la Vivienda para los Trabajadores (INFONAVIT)",
+    "Sector Productivo": "CONSTRUCCIÓN",
+    "solarpunk-rank": "High",
+    "solarpunk-alignment": "Fundamental skill for decentralized power generation, directly enabling energy independence through photovoltaic technology.",
+    "solarpunk-tags": [
+      "renewable-energy",
+      "sustainability",
+      "diy",
+      "energy-independence",
+      "decentralization"
+    ]
+  },
+  {
+    "Código": "EC0036",
+    "Nivel": 3,
+    "Título": "Asesoría para la organización vecinal en zonas habitacionales",
+    "Comité": "del Instituto del Fondo Nacional de la Vivienda para los Trabajadores (INFONAVIT)",
+    "Sector Productivo": "SERVICIOS DE SALUD Y DE ASISTENCIA SOCIAL",
+    "solarpunk-rank": "High",
+    "solarpunk-alignment": "Fosters local cooperation, community self-governance, and grassroots organizing, which are essential for building resilient and collaborative societies.",
+    "solarpunk-tags": [
+      "community",
+      "collaboration",
+      "grassroots",
+      "social-justice",
+      "localism"
+    ]
+  },
+  {
+    "Código": "EC0137",
+    "Nivel": 2,
+    "Título": "Asesoría a la comunidad sobre participación comunitaria en el espacio público",
+    "Comité": "de Desarrollo Social en Espacios Públicos",
+    "Sector Productivo": "SERVICIOS DE SALUD Y DE ASISTENCIA SOCIAL",
+    "solarpunk-rank": "High",
+    "solarpunk-alignment": "Empowers communities to reclaim and manage public spaces, promoting collaboration, direct action, and local autonomy.",
+    "solarpunk-tags": [
+      "community",
+      "collaboration",
+      "grassroots",
+      "public-space",
+      "localism"
+    ]
+  },
+  {
+    "Código": "EC0001",
+    "Nivel": 2,
+    "Título": "Prestación de servicios de traducción de textos de lengua indígena a lengua española y viceversa en el ámbito de procuración y administración de justicia",
+    "Comité": "de Atención de Asuntos Indígenas",
+    "Sector Productivo": "SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS",
+    "solarpunk-rank": "High",
+    "solarpunk-alignment": "Promotes linguistic rights and access to justice for indigenous peoples, a key tenet of solarpunk's focus on social equity and decolonization.",
+    "solarpunk-tags": [
+      "social-justice",
+      "decolonization",
+      "community",
+      "equity",
+      "indigenous-rights"
+    ]
+  },
+  {
+    "Código": "EC0015",
+    "Nivel": 3,
+    "Título": "Interpretación oral de lengua indígena al español y viceversa en el ámbito de procuración y administración de justicia",
+    "Comité": "de Atención de Asuntos Indígenas",
+    "Sector Productivo": "SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS",
+    "solarpunk-rank": "High",
+    "solarpunk-alignment": "Ensures equitable access to justice and recognizes the importance of indigenous languages, aligning with decolonization and social justice.",
+    "solarpunk-tags": [
+      "social-justice",
+      "decolonization",
+      "community",
+      "equity",
+      "indigenous-rights"
+    ]
+  },
+  {
+    "Código": "EC0079",
+    "Nivel": 2,
+    "Título": "Atención en su lengua materna a población hablante de lenguas indígenas en programas sociales",
+    "Comité": "de Atención de Asuntos Indígenas",
+    "Sector Productivo": "ACTIVIDADES LEGISLATIVAS, GUBERNAMENTALES, DE IMPARTICIÓN DE JUSTICIA Y DE ORGANISMOS INTERNACIONALES Y EXTRATERRITORIALES",
+    "solarpunk-rank": "High",
+    "solarpunk-alignment": "Focuses on providing services with dignity and respect for cultural and linguistic diversity, a core aspect of social justice.",
+    "solarpunk-tags": [
+      "social-justice",
+      "decolonization",
+      "community",
+      "equity",
+      "indigenous-rights"
+    ]
+  },
+  {
+    "Código": "EC0912",
+    "Nivel": 3,
+    "Título": "Promoción en lengua indígena de acciones para el desarrollo sustentable",
+    "Comité": "del Sector Rural (Agropecuario, Pesquero, Forestal, Ambiental y de Alimentación)",
+    "Sector Productivo": "SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS",
+    "solarpunk-rank": "High",
+    "solarpunk-alignment": "Directly links sustainability with indigenous communities and languages, acknowledging traditional ecological knowledge and promoting inclusive development.",
+    "solarpunk-tags": [
+      "sustainability",
+      "social-justice",
+      "decolonization",
+      "indigenous-rights",
+      "eco-literacy"
+    ]
+  },
+  {
+    "Código": "EC0439",
+    "Nivel": 3,
+    "Título": "Facilitación de procesos de desarrollo participativo comunitario para la seguridad alimentaria",
+    "Comité": "del Sector Rural (Agropecuario, Pesquero, Forestal, Ambiental y de Alimentación)",
+    "Sector Productivo": "SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS",
+    "solarpunk-rank": "High",
+    "solarpunk-alignment": "Centers on community participation for food security, promoting local food systems, collaboration, and grassroots empowerment.",
+    "solarpunk-tags": [
+      "community",
+      "collaboration",
+      "food-systems",
+      "sustainability",
+      "grassroots"
+    ]
+  },
+  {
+    "Código": "EC1077",
+    "Nivel": 3,
+    "Título": "Prestación de servicios para la operación de sistemas de producción y uso de biogás",
+    "Comité": "de Energía Renovable y Eficiencia Energética",
+    "Sector Productivo": "GENERACIÓN, TRANSMISIÓN, DISTRIBUCIÓN Y COMERCIALIZACIÓN DE ENERGÍA ELÉCTRICA, SUMINISTRO DE AGUA Y DE GAS NATURAL POR DUCTOS AL CONSUMIDOR FINAL",
+    "solarpunk-rank": "High",
+    "solarpunk-alignment": "Promotes the use of biogas, a renewable energy source derived from organic waste, fitting into circular economy and sustainable energy principles.",
+    "solarpunk-tags": [
+      "renewable-energy",
+      "sustainability",
+      "circular-economy",
+      "waste-management"
+    ]
+  },
+  {
+    "Código": "EC1668",
+    "Nivel": 4,
+    "Título": "Gestión e instalación del biodigestor de pequeña escala",
+    "Comité": "de la Formación para el Trabajo",
+    "Sector Productivo": "SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS",
+    "solarpunk-rank": "High",
+    "solarpunk-alignment": "Focuses on small-scale, decentralized biogas technology, which is a perfect example of appropriate tech for waste management and energy production.",
+    "solarpunk-tags": [
+      "renewable-energy",
+      "sustainability",
+      "appropriate-tech",
+      "diy",
+      "waste-management"
+    ]
+  },
+  {
+    "Código": "EC1401",
+    "Nivel": 4,
+    "Título": "Monitoreo comunitario de la biodiversidad en Áreas Naturales Protegidas para su manejo y conservación",
+    "Comité": "de Sustentabilidad Comunitaria",
+    "Sector Productivo": "SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS",
+    "solarpunk-rank": "High",
+    "solarpunk-alignment": "Empowers local communities to be stewards of their environment, blending citizen science with conservation and biodiversity protection.",
+    "solarpunk-tags": [
+      "sustainability",
+      "community",
+      "conservation",
+      "biodiversity",
+      "citizen-science"
+    ]
+  },
+  {
+    "Código": "EC1551",
+    "Nivel": 3,
+    "Título": "Combate de incendios forestales a través de combatientes de brigadas comunitarias",
+    "Comité": "de Sustentabilidad Comunitaria",
+    "Sector Productivo": "SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS",
+    "solarpunk-rank": "High",
+    "solarpunk-alignment": "Highlights community-based, direct action for ecological protection and resilience against climate change-related disasters.",
+    "solarpunk-tags": [
+      "community",
+      "collaboration",
+      "resilience",
+      "conservation",
+      "direct-action"
+    ]
+  },
+  {
+    "Código": "EC0993",
+    "Nivel": 3,
+    "Título": "Creación de negocios con una propuesta de valor sostenible",
+    "Comité": "del Instituto Tecnológico y de Estudios Superiores de Monterrey",
+    "Sector Productivo": "SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS",
+    "solarpunk-rank": "High",
+    "solarpunk-alignment": "Encourages entrepreneurship explicitly built on sustainable principles, key for developing a post-capitalist, regenerative economy.",
+    "solarpunk-tags": [
+      "sustainability",
+      "economics",
+      "entrepreneurship",
+      "circular-economy"
+    ]
+  },
+  {
+    "Código": "EC1344",
+    "Nivel": 5,
+    "Título": "Generación de negocios sostenibles y escalables",
+    "Comité": "de la Cámara Nacional de la Industria de Transformación",
+    "Sector Productivo": "SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS",
+    "solarpunk-rank": "High",
+    "solarpunk-alignment": "Aims to create viable enterprises that are inherently sustainable, crucial for transforming the economy towards a solarpunk vision.",
+    "solarpunk-tags": [
+      "sustainability",
+      "economics",
+      "entrepreneurship",
+      "innovation"
+    ]
+  },
+  {
+    "Código": "EC1543",
+    "Nivel": 4,
+    "Título": "Gestión de la sostenibilidad en las organizaciones",
+    "Comité": "de la Cámara México-Alemana de Comercio e Industria A.C. / de Energía Renovable y Eficiencia Energética",
+    "Sector Productivo": "SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS",
+    "solarpunk-rank": "High",
+    "solarpunk-alignment": "Teaches the management and integration of sustainability principles within organizations, a vital skill for transitioning existing structures.",
+    "solarpunk-tags": [
+      "sustainability",
+      "management",
+      "circular-economy",
+      "eco-literacy"
+    ]
+  },
+  {
+    "Código": "EC0180",
+    "Nivel": 2,
+    "Título": "Promoción de cultura del agua",
+    "Comité": "del Sector Hídrico",
+    "Sector Productivo": "SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS",
+    "solarpunk-rank": "High",
+    "solarpunk-alignment": "Focuses on the critical need for water stewardship, conservation, and public awareness, essential for ecological resilience.",
+    "solarpunk-tags": [
+      "sustainability",
+      "water-management",
+      "conservation",
+      "eco-literacy",
+      "community"
+    ]
+  },
+  {
+    "Código": "EC0308",
+    "Nivel": 3,
+    "Título": "Capacitación presencial a servidoras y servidores públicos en y desde el enfoque de Igualdad entre mujeres y hombres. Nivel básico",
+    "Comité": "para la Igualdad de Género",
+    "Sector Productivo": "SERVICIOS EDUCATIVOS",
+    "solarpunk-rank": "High",
+    "solarpunk-alignment": "Directly addresses gender equality, a cornerstone of solarpunk's commitment to social and environmental justice for all.",
+    "solarpunk-tags": [
+      "social-justice",
+      "equity",
+      "feminism",
+      "community"
+    ]
+  },
+  {
+    "Código": "EC0020",
+    "Nivel": 3,
+    "Título": "Formulación del diseño de proyectos de inversión del sector rural",
+    "Comité": "del Sector Rural (Agropecuario, Pesquero, Forestal, Ambiental y de Alimentación)",
+    "Sector Productivo": "ACTIVIDADES LEGISLATIVAS, GUBERNAMENTALES, DE IMPARTICIÓN DE JUSTICIA Y DE ORGANISMOS INTERNACIONALES Y EXTRATERRITORIALES",
+    "solarpunk-rank": "Medium",
+    "solarpunk-alignment": "Relevant to developing rural communities, but lacks explicit mention of sustainability, co-ops, or regenerative methods. Its alignment depends on the nature of the projects.",
+    "solarpunk-tags": [
+      "community",
+      "rural-development",
+      "agriculture",
+      "planning"
+    ]
+  },
+  {
+    "Código": "EC0067",
+    "Nivel": 4,
+    "Título": "Coordinación de acciones para el desarrollo rural sustentable municipal",
+    "Comité": "del Sector Rural (Agropecuario, Pesquero, Forestal, Ambiental y de Alimentación)",
+    "Sector Productivo": "SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS",
+    "solarpunk-rank": "Medium",
+    "solarpunk-alignment": "The term 'sustainable' is key, but its application can vary. It's a positive step towards integrated rural planning that considers ecological factors.",
+    "solarpunk-tags": [
+      "sustainability",
+      "rural-development",
+      "planning",
+      "community"
+    ]
+  },
+  {
+    "Código": "EC0068",
+    "Nivel": 1,
+    "Título": "Cosecha de hortalizas",
+    "Comité": "del Sector Rural (Agropecuario, Pesquero, Forestal, Ambiental y de Alimentación)",
+    "Sector Productivo": "AGRICULTURA, CRÍA Y EXPLOTACIÓN DE ANIMALES, APROVECHAMIENTO FORESTAL, PESCA Y CAZA",
+    "solarpunk-rank": "Medium",
+    "solarpunk-alignment": "A foundational skill for local and sustainable food production. Its solarpunk value depends on being applied in a non-industrial, community-oriented context.",
+    "solarpunk-tags": [
+      "sustainability",
+      "agriculture",
+      "food-systems",
+      "diy"
+    ]
+  },
+  {
+    "Código": "EC0140",
+    "Nivel": 1,
+    "Título": "Cuantificación del consumo de agua potable con medición",
+    "Comité": "del Sector Hídrico",
+    "Sector Productivo": "GENERACIÓN, TRANSMISIÓN, DISTRIBUCIÓN Y COMERCIALIZACIÓN DE ENERGÍA ELÉCTRICA, SUMINISTRO DE AGUA Y DE GAS NATURAL POR DUCTOS AL CONSUMIDOR FINAL",
+    "solarpunk-rank": "Medium",
+    "solarpunk-alignment": "Water metering is a fundamental first step towards conservation and efficient management of a critical resource.",
+    "solarpunk-tags": [
+      "sustainability",
+      "water-management",
+      "conservation",
+      "measurement"
+    ]
+  },
+  {
+    "Código": "EC0141",
+    "Nivel": 3,
+    "Título": "Conservación del funcionamiento operativo de la red de alcantarillado",
+    "Comité": "del Sector Hídrico",
+    "Sector Productivo": "CONSTRUCCIÓN",
+    "solarpunk-rank": "Medium",
+    "solarpunk-alignment": "Maintenance of essential infrastructure like sewerage is crucial for public health and environmental protection, aligning with the solarpunk value of stewardship.",
+    "solarpunk-tags": [
+      "sustainability",
+      "water-management",
+      "maintenance",
+      "infrastructure"
+    ]
+  },
+  {
+    "Código": "EC0174",
+    "Nivel": 2,
+    "Título": "Construcción de dispositivos excluidores de tortugas marinas",
+    "Comité": "del Sector Rural (Agropecuario, Pesquero, Forestal, Ambiental y de Alimentación)",
+    "Sector Productivo": "AGRICULTURA, CRÍA Y EXPLOTACIÓN DE ANIMALES, APROVECHAMIENTO FORESTAL, PESCA Y CAZA",
+    "solarpunk-rank": "Medium",
+    "solarpunk-alignment": "This is a harm-reduction technology that protects biodiversity. It represents using ingenuity to lessen the impact of human activity on wildlife.",
+    "solarpunk-tags": [
+      "sustainability",
+      "conservation",
+      "biodiversity",
+      "appropriate-tech",
+      "fishing"
+    ]
+  },
+  {
+    "Código": "EC0209",
+    "Nivel": 2,
+    "Título": "Operación de plantas potabilizadoras",
+    "Comité": "del Sector Hídrico",
+    "Sector Productivo": "GENERACIÓN, TRANSMISIÓN, DISTRIBUCIÓN Y COMERCIALIZACIÓN DE ENERGÍA ELÉCTRICA, SUMINISTRO DE AGUA Y DE GAS NATURAL POR DUCTOS AL CONSUMIDOR FINAL",
+    "solarpunk-rank": "Medium",
+    "solarpunk-alignment": "Ensuring clean water is vital. This standard teaches the operation of technology essential for community health and well-being.",
+    "solarpunk-tags": [
+      "water-management",
+      "health",
+      "infrastructure",
+      "technology"
+    ]
+  },
+  {
+    "Código": "EC0210",
+    "Nivel": 2,
+    "Título": "Tratamiento de aguas residuales con tanque Imhoff",
+    "Comité": "del Sector Hídrico",
+    "Sector Productivo": "GENERACIÓN, TRANSMISIÓN, DISTRIBUCIÓN Y COMERCIALIZACIÓN DE ENERGÍA ELÉCTRICA, SUMINISTRO DE AGUA Y DE GAS NATURAL POR DUCTOS AL CONSUMIDOR FINAL",
+    "solarpunk-rank": "Medium",
+    "solarpunk-alignment": "Represents a form of appropriate technology for wastewater treatment, crucial for preventing pollution and protecting ecosystems.",
+    "solarpunk-tags": [
+      "sustainability",
+      "water-management",
+      "appropriate-tech",
+      "sanitation"
+    ]
+  },
+  {
+    "Código": "EC0214",
+    "Nivel": 2,
+    "Título": "Tratamiento de aguas residuales con lodos activados",
+    "Comité": "del Sector Hídrico",
+    "Sector Productivo": "GENERACIÓN, TRANSMISIÓN, DISTRIBUCIÓN Y COMERCIALIZACIÓN DE ENERGÍA ELÉCTRICA, SUMINISTRO DE AGUA Y DE GAS NATURAL POR DUCTOS AL CONSUMIDOR FINAL",
+    "solarpunk-rank": "Medium",
+    "solarpunk-alignment": "A more advanced method for wastewater treatment, contributing to environmental health and the potential for water reclamation.",
+    "solarpunk-tags": [
+      "sustainability",
+      "water-management",
+      "technology",
+      "sanitation"
+    ]
+  },
+  {
+    "Código": "EC0341",
+    "Nivel": 2,
+    "Título": "Fortalecimiento de las colonias de abejas",
+    "Comité": "del Sector Apícola",
+    "Sector Productivo": "AGRICULTURA, CRÍA Y EXPLOTACIÓN DE ANIMALES, APROVECHAMIENTO FORESTAL, PESCA Y CAZA",
+    "solarpunk-rank": "Medium",
+    "solarpunk-alignment": "Beekeeping and supporting pollinators is crucial for biodiversity and food systems. This standard promotes ecological stewardship.",
+    "solarpunk-tags": [
+      "sustainability",
+      "biodiversity",
+      "agriculture",
+      "food-systems",
+      "beekeeping"
+    ]
+  },
+  {
+    "Código": "EC0412",
+    "Nivel": 4,
+    "Título": "Gestión de eficiencia energética en la organización",
+    "Comité": "de Energía Renovable y Eficiencia Energética",
+    "Sector Productivo": "SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS",
+    "solarpunk-rank": "Medium",
+    "solarpunk-alignment": "Energy efficiency is a key part of sustainability, reducing overall consumption. It's about using technology and planning to do more with less.",
+    "solarpunk-tags": [
+      "sustainability",
+      "energy-efficiency",
+      "management",
+      "technology"
+    ]
+  },
+  {
+    "Código": "EC0414",
+    "Nivel": 2,
+    "Título": "Instalación de sistemas de iluminación eficientes",
+    "Comité": "de Energía Renovable y Eficiencia Energética",
+    "Sector Productivo": "CONSTRUCCIÓN",
+    "solarpunk-rank": "Medium",
+    "solarpunk-alignment": "A practical skill for reducing energy consumption in buildings, contributing to overall sustainability and resource conservation.",
+    "solarpunk-tags": [
+      "sustainability",
+      "energy-efficiency",
+      "diy",
+      "construction"
+    ]
+  },
+  {
+    "Código": "EC0674",
+    "Nivel": 3,
+    "Título": "Manejo de residuos peligrosos",
+    "Comité": "de Comercio, Industria y Servicios de Baja California",
+    "Sector Productivo": "SERVICIOS DE APOYO A LOS NEGOCIOS Y MANEJO DE RESIDUOS, Y SERVICIOS DE REMEDIACIÓN",
+    "solarpunk-rank": "Medium",
+    "solarpunk-alignment": "Proper waste management is a critical component of a sustainable society, preventing pollution and harm to ecosystems. This is a harm-reduction necessity.",
+    "solarpunk-tags": [
+      "sustainability",
+      "waste-management",
+      "environmental-health"
+    ]
+  },
+  {
+    "Código": "EC0971",
+    "Nivel": 3,
+    "Título": "Evaluación del sistema de emisión de gases contaminantes de vehículos automotores a gasolina con base en normas ambientales (Verificación Vehicular)",
+    "Comité": "de la Formación para el Trabajo",
+    "Sector Productivo": "OTROS SERVICIOS EXCEPTO ACTIVIDADES GUBERNAMENTALES",
+    "solarpunk-rank": "Medium",
+    "solarpunk-alignment": "A transitional skill focused on reducing the negative impact of current fossil fuel technology, important for mitigating harm while moving to better systems.",
+    "solarpunk-tags": [
+      "sustainability",
+      "environmental-health",
+      "harm-reduction",
+      "transport"
+    ]
+  },
+  {
+    "Código": "EC1181",
+    "Nivel": 3,
+    "Título": "Supervisión de sistemas fotovoltaicos en residencia, comercio e industria",
+    "Comité": "de Energía Renovable y Eficiencia Energética",
+    "Sector Productivo": "CONSTRUCCIÓN",
+    "solarpunk-rank": "Medium",
+    "solarpunk-alignment": "Focuses on the quality control and management of renewable energy installations, ensuring they are effective and durable.",
+    "solarpunk-tags": [
+      "renewable-energy",
+      "sustainability",
+      "management",
+      "quality-control"
+    ]
+  },
+  {
+    "Código": "EC1680",
+    "Nivel": 3,
+    "Título": "Implementación de un proyecto de huerto educativo",
+    "Comité": "de Instituciones Educativas de la Sociedad Civil",
+    "Sector Productivo": "SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS",
+    "solarpunk-rank": "Medium",
+    "solarpunk-alignment": "Promotes ecological literacy, local food production, and hands-on skills within an educational context, fostering a connection to nature.",
+    "solarpunk-tags": [
+      "sustainability",
+      "education",
+      "food-systems",
+      "community",
+      "eco-literacy"
+    ]
+  },
+  {
+    "Código": "EC0017",
+    "Nivel": 1,
+    "Título": "Implementación de medidas de seguridad en el trabajo y conservación del medio ambiente en el ingenio azucarero",
+    "Comité": "de la Industria Azucarera",
+    "Sector Productivo": "INDUSTRIAS MANUFACTURERAS",
+    "solarpunk-rank": "Low",
+    "solarpunk-alignment": "While 'conservación del medio ambiente' is mentioned, it's within an industrial context. It's a positive but minor alignment focused on harm reduction rather than regeneration.",
+    "solarpunk-tags": [
+      "sustainability",
+      "harm-reduction",
+      "industry"
+    ]
+  },
+  {
+    "Código": "EC0113",
+    "Nivel": 2,
+    "Título": "Prestación de servicios digitales del promotor en un centro comunitario digital",
+    "Comité": "de la Sociedad de la Información y el Conocimiento",
+    "Sector Productivo": "SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS",
+    "solarpunk-rank": "Low",
+    "solarpunk-alignment": "Could align with digital literacy and community access to technology, but lacks specifics on open-source principles or community empowerment.",
+    "solarpunk-tags": [
+      "community",
+      "technology",
+      "digital-literacy"
+    ]
+  },
+  {
+    "Código": "EC0155",
+    "Nivel": 4,
+    "Título": "Dirigir el Consejo de Administración de una sociedad cooperativa de los sectores agropecuario o pesquero",
+    "Comité": "de Sociedades Cooperativas \"Polos de Desarrollo Regional",
+    "Sector Productivo": "OTROS SERVICIOS EXCEPTO ACTIVIDADES GUBERNAMENTALES",
+    "solarpunk-rank": "Low",
+    "solarpunk-alignment": "Cooperatives are a solarpunk-aligned economic model. However, the standard is for high-level management, which can sometimes replicate traditional hierarchies.",
+    "solarpunk-tags": [
+      "community",
+      "collaboration",
+      "cooperative-finance",
+      "economics"
+    ]
+  },
+  {
+    "Código": "EC0160",
+    "Nivel": 2,
+    "Título": "Desarrollo de código de software",
+    "Comité": "de Tecnologías de la Información y Comunicaciones",
+    "Sector Productivo": "SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS",
+    "solarpunk-rank": "Low",
+    "solarpunk-alignment": "A foundational tech skill. Its alignment is low because it doesn't specify open-source, collaborative, or socially-beneficial software development.",
+    "solarpunk-tags": [
+      "technology",
+      "software"
+    ]
+  },
+  {
+    "Código": "EC0612",
+    "Nivel": 1,
+    "Título": "Aplicación de prácticas verdes en su área de trabajo",
+    "Comité": "de Servicios Turísticos en Bahía de Banderas",
+    "Sector Productivo": "SERVICIOS DE ALOJAMIENTO TEMPORAL Y DE PREPARACIÓN DE ALIMENTOS Y BEBIDAS",
+    "solarpunk-rank": "Low",
+    "solarpunk-alignment": "Promotes basic environmental consciousness in the workplace. It's a good first step, but 'prácticas verdes' can be vague and surface-level.",
+    "solarpunk-tags": [
+      "sustainability",
+      "eco-literacy",
+      "harm-reduction"
+    ]
+  },
+  {
+    "Código": "EC0943",
+    "Nivel": 3,
+    "Título": "Promoción de igualdad y no discriminación",
+    "Comité": "del Instituto del Fondo Nacional de la Vivienda para los Trabajadores (INFONAVIT)",
+    "Sector Productivo": "SERVICIOS DE SALUD Y DE ASISTENCIA SOCIAL",
+    "solarpunk-rank": "Low",
+    "solarpunk-alignment": "Aligns with the social justice aspect of solarpunk, but the context within a large governmental financial institution makes its impact and methods unclear.",
+    "solarpunk-tags": [
+      "social-justice",
+      "equity"
+    ]
+  },
+  {
+    "Código": "EC1259",
+    "Nivel": 3,
+    "Título": "Ejecución de labores en la modalidad de trabajo a distancia mediante el uso de las tecnologías de información y comunicación",
+    "Comité": "de la Asociación Mexicana de Capacitación de Personal y Empresarial A.C. / ManpowerGroup",
+    "Sector Productivo": "SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS",
+    "solarpunk-rank": "Low",
+    "solarpunk-alignment": "Remote work can reduce commuting emissions and potentially lead to more decentralized lifestyles, but the standard itself is neutral on these outcomes.",
+    "solarpunk-tags": [
+      "technology",
+      "decentralization",
+      "future-of-work"
+    ]
+  }
+]
